@@ -1,1 +1,84 @@
 E:\IP\SnailWareHouse\SnailWareHouse\bin\Debug\SnailWareHouse.exe.config
+E:\IP\SnailWareHouse\SnailWareHouse\bin\Debug\SnailWareHouse.exe
+E:\IP\SnailWareHouse\SnailWareHouse\bin\Debug\SnailWareHouse.pdb
+E:\IP\SnailWareHouse\SnailWareHouse\obj\Debug\SnailWareHouse.csprojResolveAssemblyReference.cache
+E:\IP\SnailWareHouse\SnailWareHouse\obj\Debug\SnailWareHouse.MainForm.resources
+E:\IP\SnailWareHouse\SnailWareHouse\obj\Debug\SnailWareHouse.Properties.Resources.resources
+E:\IP\SnailWareHouse\SnailWareHouse\obj\Debug\SnailWareHouse.csproj.GenerateResource.Cache
+E:\IP\SnailWareHouse\SnailWareHouse\obj\Debug\SnailWareHouse.exe
+E:\IP\SnailWareHouse\SnailWareHouse\obj\Debug\SnailWareHouse.pdb
+E:\IP\SnailWareHouse\SnailWareHouse\bin\Debug\Assets\snail_icon.ico
+E:\IP\SnailWareHouse\SnailWareHouse\bin\Debug\EntityFramework.dll
+E:\IP\SnailWareHouse\SnailWareHouse\bin\Debug\EntityFramework.SqlServer.dll
+E:\IP\SnailWareHouse\SnailWareHouse\bin\Debug\System.Data.SQLite.dll
+E:\IP\SnailWareHouse\SnailWareHouse\bin\Debug\System.Data.SQLite.EF6.dll
+E:\IP\SnailWareHouse\SnailWareHouse\bin\Debug\System.Data.SQLite.Linq.dll
+E:\IP\SnailWareHouse\SnailWareHouse\bin\Debug\EntityFramework.xml
+E:\IP\SnailWareHouse\SnailWareHouse\bin\Debug\EntityFramework.SqlServer.xml
+E:\IP\SnailWareHouse\SnailWareHouse\bin\Debug\System.Data.SQLite.xml
+E:\IP\SnailWareHouse\SnailWareHouse\bin\Debug\Assets\AddDatabase.png
+E:\IP\SnailWareHouse\SnailWareHouse\bin\Debug\Assets\AddDatabase1.png
+E:\IP\SnailWareHouse\SnailWareHouse\bin\Debug\Assets\AddRow.png
+E:\IP\SnailWareHouse\SnailWareHouse\bin\Debug\Assets\AddRow.png.ico
+E:\IP\SnailWareHouse\SnailWareHouse\bin\Debug\Assets\AlphabeticalSorting.png
+E:\IP\SnailWareHouse\SnailWareHouse\bin\Debug\Assets\AlphabeticalSorting.png.ico
+E:\IP\SnailWareHouse\SnailWareHouse\bin\Debug\Assets\AlphabeticalSorting2.png
+E:\IP\SnailWareHouse\SnailWareHouse\bin\Debug\Assets\AlphabeticalSorting2.png.ico
+E:\IP\SnailWareHouse\SnailWareHouse\bin\Debug\Assets\DeleteDatabase.png
+E:\IP\SnailWareHouse\SnailWareHouse\bin\Debug\Assets\DeleteDatabase.png.ico
+E:\IP\SnailWareHouse\SnailWareHouse\bin\Debug\Assets\DeleteRow.png
+E:\IP\SnailWareHouse\SnailWareHouse\bin\Debug\Assets\DeleteRow.png.ico
+E:\IP\SnailWareHouse\SnailWareHouse\bin\Debug\Assets\EditRow.png
+E:\IP\SnailWareHouse\SnailWareHouse\bin\Debug\Assets\EditRow.png.ico
+E:\IP\SnailWareHouse\SnailWareHouse\bin\Debug\Assets\Filter.png
+E:\IP\SnailWareHouse\SnailWareHouse\bin\Debug\Assets\Filter.png.ico
+E:\IP\SnailWareHouse\SnailWareHouse\bin\Debug\Assets\ModifiDataBase.png
+E:\IP\SnailWareHouse\SnailWareHouse\bin\Debug\Assets\ModifiDataBase.png.ico
+E:\IP\SnailWareHouse\SnailWareHouse\obj\Debug\SnailWareHouse.AddEntryForm.resources
+E:\IP\SnailWareHouse\SnailWareHouse\obj\Debug\SnailWareHouse.EditEntryForm.resources
+E:\IP\SnailWareHouse\SnailWareHouse\bin\Debug\SnailWareHouse.exe.manifest
+E:\IP\SnailWareHouse\SnailWareHouse\bin\Debug\SnailWareHouse.application
+E:\IP\SnailWareHouse\SnailWareHouse\obj\Debug\SnailWareHouse.exe.manifest
+E:\IP\SnailWareHouse\SnailWareHouse\obj\Debug\SnailWareHouse.application
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\bin\Debug\SnailWareHouse.exe.config
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\obj\Debug\SnailWareHouse.exe
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\obj\Debug\SnailWareHouse.pdb
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\bin\Debug\Assets\AddDatabase.png
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\bin\Debug\Assets\AddDatabase1.png
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\bin\Debug\Assets\AddRow.png
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\bin\Debug\Assets\AddRow.png.ico
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\bin\Debug\Assets\AlphabeticalSorting.png
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\bin\Debug\Assets\AlphabeticalSorting.png.ico
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\bin\Debug\Assets\AlphabeticalSorting2.png
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\bin\Debug\Assets\AlphabeticalSorting2.png.ico
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\bin\Debug\Assets\DeleteDatabase.png
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\bin\Debug\Assets\DeleteDatabase.png.ico
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\bin\Debug\Assets\DeleteRow.png
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\bin\Debug\Assets\DeleteRow.png.ico
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\bin\Debug\Assets\EditRow.png
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\bin\Debug\Assets\EditRow.png.ico
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\bin\Debug\Assets\Filter.png
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\bin\Debug\Assets\Filter.png.ico
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\bin\Debug\Assets\ModifiDataBase.png
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\bin\Debug\Assets\ModifiDataBase.png.ico
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\bin\Debug\Assets\snail_icon.ico
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\bin\Debug\SnailWareHouse.exe.manifest
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\bin\Debug\SnailWareHouse.application
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\bin\Debug\SnailWareHouse.exe
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\bin\Debug\SnailWareHouse.pdb
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\bin\Debug\EntityFramework.dll
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\bin\Debug\System.Data.SQLite.dll
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\bin\Debug\EntityFramework.xml
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\bin\Debug\System.Data.SQLite.xml
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\obj\Debug\SnailWareHouse.csprojResolveAssemblyReference.cache
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\obj\Debug\SnailWareHouse.AddEntryForm.resources
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\obj\Debug\SnailWareHouse.EditEntryForm.resources
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\obj\Debug\SnailWareHouse.MainForm.resources
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\obj\Debug\SnailWareHouse.Properties.Resources.resources
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\obj\Debug\SnailWareHouse.csproj.GenerateResource.Cache
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\obj\Debug\SnailWareHouse.exe.manifest
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 2 - Warehouse Database\SnailWareHouse\SnailWareHouse\obj\Debug\SnailWareHouse.application
